@@ -1,0 +1,29 @@
+{
+  "identifier" : "TripcompanionStoreKitConfig",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "tripcompanion_pro",
+      "localizations" : [
+        {
+          "description" : "Unlimited companions, trip-together history per person, and stats",
+          "displayName" : "Roadtrip Companion Log Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.tripcompanion.pro",
+      "referenceName" : "Tripcompanion Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_developerTeamID" : "W7Q885Q59C"
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
